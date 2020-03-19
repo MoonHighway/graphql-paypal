@@ -28,15 +28,15 @@ Welcome! I'm really glad that you're here. Below you'll find all of the resource
 - [Schema Definition Language](https://slides.com/moonhighway/schema-definition-language/)
 - [Lab Instructions](https://slides.com/moonhighway/schema-lab/)
 
-### Building a GraphQL API
-
-- [Starting Schemas](https://github.com/graphqlworkshop/schema-activity)
-- [Simple Strava Sample](https://github.com/eveporcello/simple-strava-sample/blob/master/index.js)
-- [REST Data Sources](https://github.com/MoonHighway/countries-datasources)
-
 ### Mid Class Evaluation
 
 - [Anonymous Evaluation](https://docs.google.com/forms/d/e/1FAIpQLSdZNGWrd3t1u9g4N0KgMWogdjUbmScc6AFFaJI4_PTlnj4qEw/viewform?usp=sf_link)
+
+### Building a GraphQL API
+
+- [Snowtooth API](https://github.com/graphqlworkshop/snowtooth-api)
+- [Simple Strava Sample](https://github.com/eveporcello/simple-strava-sample/blob/master/index.js)
+- [REST Data Sources](https://github.com/MoonHighway/countries-datasources)
 
 ### Apollo Client
 
