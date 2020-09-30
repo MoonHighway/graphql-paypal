@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://pbs.twimg.com/profile_images/1145724063106519040/b1L98qh9_400x400.jpg" width="100" alt="paypal logo"/>
+<img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_111x69.jpg" width="100" alt="paypal logo"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/512px-GraphQL_Logo.svg.png" width="100" alt="graphql logo"/>
 <img src="https://i.imgur.com/migo24P.png" width="100" alt="moon highway logo"/>
 </p>
